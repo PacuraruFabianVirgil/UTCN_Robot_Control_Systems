@@ -1,0 +1,9 @@
+switch 2 up
+switch 3 up
+switch 1 up
+switch 4 up
+switch 1 down
+switch 8 up
+switch 1 up
+switch 4 down
+
